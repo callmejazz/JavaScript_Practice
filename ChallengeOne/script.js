@@ -21,13 +21,13 @@
 // calculate the formula for both people
 //make a conditional state to check to see which is higher
 
-const johnMass = 250;
-const johnHeight = 67;
-const markMass = 190;
-const markHeight = 70;
+// const johnMass = 250;
+// const johnHeight = 67;
+// const markMass = 190;
+// const markHeight = 70;
 
-const BMIJohn = johnMass / johnHeight ** 2;
-const BMIMark = markMass / markHeight ** 2;
-const markHigherBMI = BMIMark > BMIJohn;
+// const BMIJohn = johnMass / johnHeight ** 2;
+// const BMIMark = markMass / markHeight ** 2;
+// const markHigherBMI = BMIMark > BMIJohn;
 
-console.log(markHigherBMI)
+// console.log(markHigherBMI)
